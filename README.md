@@ -1,3 +1,3 @@
-# Machine Learning Engineering
+# Diabetes Machine Learning Model
 
-A collection of machine learning projects. In Python only.
+Processing, manipulation, wrangling, cleansing of a diabetes dataset before applying machine learning models on it for evaluation.
